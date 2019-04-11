@@ -1,5 +1,0 @@
-
-
-
-  
-  // Connect to the db
