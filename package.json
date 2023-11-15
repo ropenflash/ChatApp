@@ -19,7 +19,7 @@
     "mongodb": "^3.2.3",
     "mongoose": "^5.5.0",
     "socket.io": "^2.2.0",
-    "snyk": "^1.226.0"
+    "snyk": "^1.230.7"
   },
   "devDependencies": {
     "jasmine": "^3.4.0",
